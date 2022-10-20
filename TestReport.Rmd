@@ -12,11 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 Okay does this work?
 combined with script from num3!!
-<<<<<<< HEAD
-main 15
-=======
-15 jacob again
->>>>>>> jacob
+
 ```{r cars}
 summary(cars)
 ```
