@@ -12,8 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 Okay does this work?
 combined with script from num3!!
-Jacob 1
-with a second line even!
+<<<<<<< HEAD
+Teammember1
+idk wut 2 rite lol
+=======
+Teammember2
+You've git to be kidding me.
+>>>>>>> Teammember2
 ```{r cars}
 summary(cars)
 ```
