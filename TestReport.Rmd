@@ -11,12 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 Okay does this work?
-<<<<<<< HEAD
-Tst line ;)
-=======
-Test line 
->>>>>>> num2
-this comes from github on firefox
+combined with script from num3!!
+
 ```{r cars}
 summary(cars)
 ```
