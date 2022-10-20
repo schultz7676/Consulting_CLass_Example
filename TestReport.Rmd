@@ -12,7 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 Okay does this work?
 combined with script from num3!!
-Jacob 2 difference
+Jacob 1
+with a second line even!
 ```{r cars}
 summary(cars)
 ```
