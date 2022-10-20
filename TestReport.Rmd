@@ -12,7 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 Okay does this work?
 combined with script from num3!!
-Jacob 2 difference
+Jacob 2 
+now adding other line
 ```{r cars}
 summary(cars)
 ```
