@@ -16,7 +16,7 @@ Tst line ;)
 =======
 Test line 
 >>>>>>> num2
-
+this comes from github on firefox
 ```{r cars}
 summary(cars)
 ```
