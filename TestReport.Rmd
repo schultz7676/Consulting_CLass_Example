@@ -11,11 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 Okay does this work?
-<<<<<<< HEAD
-Tst line ;)
-=======
-Test line 
->>>>>>> num2
+Tst line num3
 
 ```{r cars}
 summary(cars)
