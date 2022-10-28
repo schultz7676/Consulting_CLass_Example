@@ -19,6 +19,10 @@ When you click the **Knit** button a document will be generated that includes bo
 this is extra code from br2
 ```{r cars}
 summary(cars)
+
+#oh here comes scary code...
+
+#more scary code...
 ```
 
 ## Including Plots
